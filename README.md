@@ -1,10 +1,11 @@
-💳 Credit Card Customer & Transaction Dashboard
-Power BI Project  Financial Analytics  Customer Segmentation
-🧩 Project Overview
+## 💳 Credit Card Customer & Transaction Dashboard
+## Power BI Project  Financial Analytics  Customer Segmentation
+
+## 🧩 Project Overview
 This Power BI dashboard delivers a comprehensive analysis of credit card customer behavior and transaction patterns. It helps financial analysts and decision-makers understand revenue drivers, customer demographics, and card category performance — all through clean, interactive visuals.
 Built for real-world business intelligence, this dashboard showcases hands-on skills in DAX, Power Query, and layout design — ideal for portfolio presentation and job interviews.
 
-🚀 Key Features
+## 🚀 Key Features
 📌 Summary Metrics
 - Revenue: ₹55M
 - Income: ₹576M
@@ -28,23 +29,23 @@ Built for real-world business intelligence, this dashboard showcases hands-on sk
 - Customer Acquisition Count by Channel: Campaign, Referral, Organic, Event
 - Filters for week, gender, card type, education, income, marital status, age
 
-📈 Business Insights
+## 📈 Business Insights
 - 🎯 Platinum cards generate highest revenue across all income levels
 - 🧓 Age group 40–60 contributes maximum revenue — prime target segment
 - 💳 Variable spend categories like Shopping & Travel dominate revenue
 - 🧠 Referral & Campaign channels drive most customer acquisition
 - 👩‍🎓 College-educated professionals show higher transaction volume
 
-🛠️ Tools & Techniques
+## 🛠️ Tools & Techniques
 - Power BI: DAX Measures, KPI Cards, Slicers, Drill-through
 - Power Query: Data Cleaning, Merge Queries, Column Transformations
 - Excel: Source Structuring, Lookup Tables
 
-📂 Data Source
+## 📂 Data Source
 - Credit Card Data.xlsx
 - Transformed using Power BI and Power Query
 
-🎯 Why This Project Matters
+## 🎯 Why This Project Matters
 This dashboard reflects my ability to:
 - Analyze financial and customer data with precision
 - Build interactive, recruiter-ready dashboards
@@ -52,4 +53,4 @@ This dashboard reflects my ability to:
 - Present complex metrics in a clean, visual format
 Whether you're a hiring manager, recruiter, or collaborator — this project demonstrates my hands-on expertise in financial analytics and dashboard storytelling.
 
-Agar aap chahein toh main ek short “About Me” ya “Resume Link” section bhi add kar sakta hoon niche. Bataiye agar tone aur tweak chahiye ho — ya Hindi-English mix version chahiye for added personality.
+
